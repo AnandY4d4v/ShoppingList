@@ -47,5 +47,5 @@ Contributions are welcome! Please follow these steps to contribute:
 
 For any inquiries, please contact:
 
-- Your Name - [your.email@example.com](mailto:your.email2felixfelix@gmail.com)
+- Your Name - [your.email2felixfelix@gmail.com](mailto:your.email2felixfelix@gmail.com)
 - GitHub: [AnandY4d4v](https://github.com/AnandY4d4v)
