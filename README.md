@@ -21,7 +21,7 @@ Welcome to the Shopping List App! This application helps you create and manage s
 
 ## Screenshots
 
-| <img src="docs_resources/s1.jpg" width="200"> | <img src="docs_resources/s2.jpg" width="200"> | <img src="docs_resources/s3.jpg" width="200"> |
+| <img src="docs_resources/s3.jpg" width="200"> | <img src="docs_resources/s2.jpg" width="200"> | <img src="docs_resources/s1.jpg" width="200"> |
 | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
 
 ## Technologies Used
